@@ -5,7 +5,6 @@ public class StudentDTO {
 	private String id;
 	private String name;
 	private String cname;
-	
 	public String getId() {
 		return id;
 	}
